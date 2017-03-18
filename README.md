@@ -21,4 +21,30 @@
 ## v1 scheduled for 17-01-2019
 #
 #
-# <strong>LAST MODIFIED: 2017-03-18 10:46:00 GMT +01:00</strong>
+# <strong>LAST MODIFIED: 2017-03-18 10:54:00 GMT +01:00</strong>
+#
+#
+#
+# This description:
+ - SQL2SQL
+
+#
+# This algorithm:
+  - will be downloaded free of charge and can be distributed,
+  - further modified and used for commercial gain according to MIT licence :-) 
+
+#
+# This source code:
+  - will work for:
+    ### SQL Server 2008 to SQL Server 2016
+    ### Oracle
+    ### PostgreSQL
+    ### MySQL
+
+#
+# This email:
+  - :email:&nbsp;lukkasz.dabrowski@gmail.com - is for yor feedback (NEGATIVE/positive)
+
+#
+# This license: [MIT]:
+ - :free:&nbsp;:book:&nbsp;**[http://www.opensource.org/licenses/mit-license.php]()**
