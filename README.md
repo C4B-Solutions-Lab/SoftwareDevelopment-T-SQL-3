@@ -21,7 +21,7 @@
 ## [ v1 scheduled for 17-01-2019 ]
 #
 #
-# <strong>LAST MODIFIED: 2017-03-18 10:54:00 GMT +01:00</strong>
+# <strong>LAST MODIFIED: 2017-04-27 08:10:00 GMT +01:00</strong>
 #
 #
 #
@@ -36,7 +36,7 @@
 #
 # This source code:
   - will work for:
-    ### SQL Server 2008 to SQL Server 2016
+    ### SQL Server 2008 to Current Version Available
     ### Oracle
     ### PostgreSQL
     ### MySQL
