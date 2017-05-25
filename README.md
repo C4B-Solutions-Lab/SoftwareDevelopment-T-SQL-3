@@ -1,5 +1,5 @@
 <img src="https://github.com/Dabrowski-Software-Development/SoftwareDevelopment-T-SQL-3/blob/master/github_json2sql.png"></img>
-# Dabrowski Software Development [ T-SQL ]
+# [ T-SQL ]
 # SQL_2_SQL&nbsp;&nbsp;&nbsp;&nbsp;:hash::one:
 #
 #
@@ -21,7 +21,7 @@
 ## [ v1 scheduled for 17-01-2019 ]
 #
 #
-# <strong>LAST MODIFIED: 2017-04-27 08:10:00 GMT +01:00</strong>
+# <strong>LAST MODIFIED: 2017-05-25 15:00:00 GMT +01:00</strong>
 #
 #
 #
