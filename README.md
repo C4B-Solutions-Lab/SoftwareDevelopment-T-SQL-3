@@ -1,5 +1,5 @@
 <img src="https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL-3/blob/master/C4B_Solutions_Lab.png"></img>
-# Language:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ T-SQL ]
+# Language:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T-SQL
 # Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQL 2 SQL&nbsp;&nbsp;&nbsp;&nbsp;:hash::one:
 #
 #
