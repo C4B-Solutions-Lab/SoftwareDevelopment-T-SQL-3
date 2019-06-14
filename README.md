@@ -1,9 +1,9 @@
 <img src="https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL-3/blob/master/C4B_Solutions_Lab.png"></img>
-# [ T-SQL ]
+# Language:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ T-SQL ]
 # SQL 2 SQL&nbsp;&nbsp;&nbsp;&nbsp;:hash::one:
 #
 #
-# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:no_entry::lock:&nbsp;[ Next SQL Server Project ]
+# Availability:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:no_entry::lock:&nbsp;[ Next SQL Server Project ]
 #
 ### <strong>LAST UPDATED 2019-06-14 11:20:00 GMT +00:00</strong>
 #
