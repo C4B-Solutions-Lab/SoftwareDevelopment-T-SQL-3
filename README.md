@@ -1,8 +1,8 @@
 <img src="https://github.com/C4B-Solutions-Lab/SoftwareDevelopment-T-SQL-3/blob/master/C4B_Solutions_Lab.png"></img>
-# Language:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T-SQL
-# Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQL 2 SQL&nbsp;&nbsp;&nbsp;&nbsp;:hash::one:
-# Availability:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:no_entry::lock:&nbsp;[ Next SQL Server Project ]
-# Status:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DEVELOPMENT POSTPONED
+# Language:&nbsp;T-SQL
+# Name:&nbsp;SQL 2 SQL&nbsp;&nbsp;&nbsp;&nbsp;:hash::one:
+# Availability:&nbsp;:no_entry::lock:&nbsp;[ Next SQL Server Project ]
+# Status:&nbsp;DEVELOPMENT POSTPONED
 # Description:
  - The goal is to translate the same SQL code from one database server language to another database server language:
  - T-SQL -> Oracle
