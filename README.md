@@ -3,8 +3,7 @@
 # SQL 2 SQL&nbsp;&nbsp;&nbsp;&nbsp;:hash::one:
 #
 #
-# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:no_entry::lock:
-# <strong>v1 </strong> [ Next SQL Server Project ]
+# Availability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:no_entry::lock:&nbsp;[ Next SQL Server Project ]
 #
 ### <strong>LAST UPDATED 2019-06-14 11:20:00 GMT +00:00</strong>
 #
