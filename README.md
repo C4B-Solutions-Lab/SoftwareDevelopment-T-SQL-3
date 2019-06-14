@@ -11,8 +11,6 @@
  - PostgreSQL -> T-SQL
  - T-SQL -> MySQL
  - MySQL-> T-SQL
-# This description:
- - SQL2SQL
  
 # This algorithm:
   - will be downloaded free of charge and can be distributed,
