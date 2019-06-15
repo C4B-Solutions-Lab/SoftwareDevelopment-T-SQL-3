@@ -24,10 +24,9 @@
     ### MySQL
     
 # This email:
-  - :email:&nbsp;lukkasz.dabrowski@gmail.com - is for yor feedback (NEGATIVE/positive)
+  - :email:&nbsp;email.c4b.solutions.lab@gmail.com - is for your feedback (NEGATIVE/positive)
   
 # This license: [MIT]:
  - :free:&nbsp;:book:&nbsp;**[http://www.opensource.org/licenses/mit-license.php]()**
  
-#
-# <strong>LAST MODIFIED: 2019-06-15 12:49:00 GMT +01:00</strong>
+# <strong>LAST MODIFIED: 2019-06-15 11:54:00 GMT +00:00</strong>
